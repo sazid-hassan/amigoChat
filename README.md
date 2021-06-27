@@ -1,0 +1,2 @@
+# amigoChat
+A chatting app
